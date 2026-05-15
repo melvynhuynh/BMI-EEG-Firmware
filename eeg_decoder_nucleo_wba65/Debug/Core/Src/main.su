@@ -1,0 +1,9 @@
+../Core/Src/main.c:73:14:randnf	24	static
+../Core/Src/main.c:95:13:generate_target_class_eeg	64	static
+../Core/Src/main.c:169:12:random_next_label	24	static
+../Core/Src/main.c:181:20:movement_name	16	static
+../Core/Src/main.c:200:5:main	168	static
+../Core/Src/main.c:343:6:SystemClock_Config	104	static
+../Core/Src/main.c:394:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:446:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:492:6:Error_Handler	4	static,ignoring_inline_asm

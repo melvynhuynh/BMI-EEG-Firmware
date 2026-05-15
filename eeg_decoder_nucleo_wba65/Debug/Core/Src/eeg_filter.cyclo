@@ -1,0 +1,2 @@
+../Core/Src/eeg_filter.c:38:6:eeg_filter_init	2
+../Core/Src/eeg_filter.c:46:6:eeg_filter_apply	1

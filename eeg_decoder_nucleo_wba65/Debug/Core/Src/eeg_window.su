@@ -1,0 +1,4 @@
+../Core/Src/eeg_window.c:71:6:eeg_window_init	8	static
+../Core/Src/eeg_window.c:83:6:eeg_window_push_sample	40	static
+../Core/Src/eeg_window.c:115:6:eeg_window_ready	4	static
+../Core/Src/eeg_window.c:120:6:eeg_window_get_epoch	16	static

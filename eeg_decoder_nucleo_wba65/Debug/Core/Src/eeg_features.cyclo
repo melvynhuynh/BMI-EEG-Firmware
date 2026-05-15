@@ -1,0 +1,3 @@
+../Core/Src/eeg_features.c:25:6:eeg_features_init	2
+../Core/Src/eeg_features.c:35:13:welch_one_channel	9
+../Core/Src/eeg_features.c:101:6:eeg_extract_band_power	3
