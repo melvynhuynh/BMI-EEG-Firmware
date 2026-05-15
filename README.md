@@ -32,16 +32,15 @@ This is the on-board (firmware) side of the **n.pulse** BMI project.
 
 Defined in `eeg_decoder_nucleo_wba65/Core/Inc/eeg_features.h`:
 
-| Parameter        | Value                  |
-|------------------|------------------------|
-| Sampling rate    | 333 Hz                 |
-| Channels         | 20                     |
-| Window length    | 2 s (666 samples)      |
-| Hop              | ~0.5 s (166 samples)   |
-| FFT length       | 512                    |
-| Frequency bands  | δ, θ, α, β, γ (5)      |
-| Features         | 20 × 5 = 100           |
-| Classes          | 6                      |
+| Parameter                | Value                  |
+|--------------------------|------------------------|
+| Sampling rate            | 333 Hz                 |
+| Channels                 | 20                     |
+| Window length            | 2 s (666 samples)      |
+| Hop (btw 2 predictions)  | ~0.5 s (166 samples)   |
+| FFT length               | 512                    |
+| Features                 | 20 × 5 = 100           |
+| Classes                  | 6                      |
 
 **Stages**
 
