@@ -1,9 +1,9 @@
 # BMI-EEG-Firmware
 
-Embedded EEG movement decoder running on an **STM32 Nucleo-WBA65RI** board.
+Embedded EEG movement decoder running on an STM32 Nucleo-WBA65RI board.
 The firmware streams 20-channel EEG, filters it, extracts band power features, and classifies the current movement among 6 classes using a logistic-regression model trained offline in scikit-learn.
 
-This is the on-board (firmware) side of the **n.pulse** BMI project.
+This is the on-board (firmware) side of the n.pulse BMI project.
 
 ---
 
